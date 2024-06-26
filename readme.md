@@ -20,3 +20,12 @@ npm run test
 #### Visualización de pruebas realizadas en browser
 
 ![](./images/screen-1.png)
+
+#### Juego a ser testeado
+
+[The One To Nine Calculator Game](https://eviltester.github.io/TestingApp/games/buggygames/the_one_to_nine_calculator/calc1to9.html)
+
+#### Pruebas 
+
+* Validación de input text, deben ser 9 visibles
+* Validación de restricción de caracteres admitidos, deben ser solo operadores aritméticos.
